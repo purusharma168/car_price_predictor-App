@@ -48,7 +48,7 @@ Link for data:
 
 
 
-Link for notebook: 
+Link for notebook: https://github.com/purusharma168/car_price_predictor-App/blob/master/car%20price%20predictor%20project.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
