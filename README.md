@@ -3,7 +3,7 @@
 Project link: 
 
 
-<img src="/Users/purusharma/Downloads/car_price_predictor-master/demo.png">
+<img src="https://github.com/purusharma168/car_price_predictor-App/blob/master/demo.png">
 
 
 
@@ -11,7 +11,7 @@ Project link:
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
-<img src="/Users/purusharma/Downloads/car_price_predictor-master/predict.png">
+<img src="https://github.com/purusharma168/car_price_predictor-App/blob/master/predict.png">
 
 ## How to use?
 
@@ -33,7 +33,7 @@ And you are good to go.
 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10. 
 
-<img src="<img src="/Users/purusharma/Downloads/car_price_predictor-master/predict.png">
+<img src="<img src="https://github.com/purusharma168/car_price_predictor-App/blob/master/predict.png">
 
 ## How this project does?
 
